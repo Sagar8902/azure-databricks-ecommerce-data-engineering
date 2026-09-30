@@ -68,3 +68,13 @@ The project follows the **Medallion Architecture**.
                        │    POWER BI     │
                        │    Dashboard    │
                        └─────────────────┘
+
+💼 Project Description
+
+Built an end-to-end E-Commerce Data Engineering pipeline using Azure Databricks, ADLS Gen2, PySpark and Delta Lake. Implemented Medallion Architecture, batch and streaming processing, Change Data Feed, MERGE/UPSERT, data quality checks, automated workflows and Power BI reporting.
+
+👨‍💻 Author
+Sagar Soni
+
+Data Engineer | SQL | Python | PySpark | Azure | Databricks
+
