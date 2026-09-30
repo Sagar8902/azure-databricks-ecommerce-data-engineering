@@ -67,7 +67,27 @@ The project follows the **Medallion Architecture**.
                        ┌─────────────────┐
                        │    POWER BI     │
                        │    Dashboard    │
-                       └─────────────────┘
+
+                    └─────────────────┘
+
+## 📥 Explore the Databricks Project
+
+To explore the complete Databricks project:
+
+1. Download the [`databrick.dbc`](https://github.com/Sagar8902/azure-databricks-ecommerce-data-engineering/blob/main/04_databrick_dbc_file/databrick.dbc) file from the **`04_databrick_dbc_file`** folder.
+2. Import the `.dbc` file into your **Azure Databricks workspace**.
+3. Open the notebooks and explore the complete data engineering pipeline.
+
+### 📊 Data Flow & Architecture
+
+Check the [`05_dataflow_diagram`](https://github.com/Sagar8902/azure-databricks-ecommerce-data-engineering/tree/main/05_dataflow_diagram) folder to understand:
+
+- 🔄 Data Flow
+- 🔗 Data Lineage
+- ⚙️ Data Pipeline
+- 🏗️ Project Architecture
+- 📊 Power BI Dashboard
+
 
 💼 Project Description
 
