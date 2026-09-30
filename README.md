@@ -58,12 +58,6 @@ The project follows the **Medallion Architecture**.
                                 │
                                 ▼
                        ┌─────────────────┐
-                       │   STREAMING     │
-                       │  PySpark / CDF  │
-                       └────────┬────────┘
-                                │
-                                ▼
-                       ┌─────────────────┐
                        │   🥇 GOLD       │
                        │ Business-Ready  │
                        │      Data       │
