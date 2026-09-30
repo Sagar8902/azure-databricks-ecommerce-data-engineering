@@ -52,7 +52,7 @@ The project follows the **Medallion Architecture**.
                                 ▼
                        ┌─────────────────┐
                        │  🥈 SILVER      │
-                       │ Clean & Transform│
+                       │Clean & Transform│
                        │  Data Quality   │
                        └────────┬────────┘
                                 │
@@ -68,7 +68,7 @@ The project follows the **Medallion Architecture**.
                        │    POWER BI     │
                        │    Dashboard    │
 
-                    └─────────────────┘
+                       └─────────────────┘
 
 ## 📥 Explore the Databricks Project
 
